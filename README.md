@@ -1,4 +1,5 @@
 # AVRDUDE
+_This fork has an implementation of the fuse-resetter feature using High-Voltage Serial Programming (HVSP), and a simple, parallel-port driven adaptor (dapa_hvsp). Look into avrdude.conf for further information._
 
 [![Build Status](https://github.com/avrdudes/avrdude/actions/workflows/build.yml/badge.svg)](https://github.com/avrdudes/avrdude/actions/workflows/build.yml)
 
